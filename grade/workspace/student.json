@@ -1,0 +1,32 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "name": "Segun",
+      "cloth": "seyi vibes"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "name": "Seyi",
+      "cloth": "Legedis benz"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "name": "Wale",
+      "cloth": "Gucci"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "name": "Tunde",
+      "cloth": "Vassashi"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "name": "Lukman",
+      "cloth": "Gucci"
+    }
+]
