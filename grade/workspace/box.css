@@ -1,0 +1,7 @@
+.box-shadow {
+    background-color: lightpink;
+    border: 0.25rem solid red;
+    padding: 1rem;
+    margin: 2rem;
+    box-shadow: 0.5rem 0.5rem 0.25rem darkgray;
+}
